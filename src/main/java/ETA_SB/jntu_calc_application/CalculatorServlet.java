@@ -43,6 +43,8 @@ public class CalculatorServlet extends HttpServlet {
 		case 4 : 
 			res = new Calculator().doDiv(Integer.parseInt(n1), Integer.parseInt(n2));
 			break;
+		default:
+			break;
 		}
 		out.println(res);
 	}
