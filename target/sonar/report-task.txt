@@ -1,6 +1,0 @@
-projectKey=jntu_calc_application
-serverUrl=http://localhost:9000
-serverVersion=9.5.0.56709
-dashboardUrl=http://localhost:9000/dashboard?id=jntu_calc_application
-ceTaskId=AYM64BjioTN2acjYo4bQ
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYM64BjioTN2acjYo4bQ
