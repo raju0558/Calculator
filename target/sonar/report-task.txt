@@ -2,5 +2,5 @@ projectKey=jntu_calc_application
 serverUrl=http://localhost:9000
 serverVersion=9.5.0.56709
 dashboardUrl=http://localhost:9000/dashboard?id=jntu_calc_application
-ceTaskId=AYNAeizHWH_q0_mp6Ozd
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNAeizHWH_q0_mp6Ozd
+ceTaskId=AYNAfagCWH_q0_mp6Oze
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYNAfagCWH_q0_mp6Oze
